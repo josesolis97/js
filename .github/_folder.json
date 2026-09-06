@@ -1,0 +1,10 @@
+{
+  "kind": "Folder",
+  "apiVersion": "folder.grafana.app/v1",
+  "metadata": {
+    "name": "afxfr13eltc74b"
+  },
+  "spec": {
+    "title": ".github"
+  }
+}
