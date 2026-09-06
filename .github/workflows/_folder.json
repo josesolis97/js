@@ -1,0 +1,10 @@
+{
+  "kind": "Folder",
+  "apiVersion": "folder.grafana.app/v1",
+  "metadata": {
+    "name": "bfxfqpo9jgwlcb"
+  },
+  "spec": {
+    "title": "workflows"
+  }
+}
